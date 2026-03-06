@@ -3,6 +3,7 @@
 A clean and responsive calculator built using **HTML, CSS, and JavaScript**.  
 Supports both **button clicks** and **keyboard input**.
 
+[View Live](https://amartgit.github.io/Calculator/)
 ---
 
 ## Features
